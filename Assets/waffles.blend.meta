@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 7c4b8b1e14acd0c48bfef24b7c7da534
+timeCreated: 1480625868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ___DUMMY_Strawber_000
+    100002: ___DUMMY_Strawber_001
+    100004: ___DUMMY_Strawberry
+    100006: Circle
+    100008: Circle_001
+    100010: Circle_002
+    100012: coffee_cup
+    100014: DOF
+    100016: floor
+    100018: fork
+    100020: HyperNURBS
+    100022: HyperNURBS_001
+    100024: HyperNURBS_002
+    100026: HyperNURBS_003
+    100028: HyperNURBS_004
+    100030: HyperNURBS_005
+    100032: Icosphere
+    100034: Plane
+    100036: Plane_001
+    100038: Plane_002
+    100040: Plane_003
+    100042: Plane_004
+    100044: Plane_005
+    100046: Plane_006
+    100048: Seeds
+    100050: Seeds_001
+    100052: Seeds_002
+    100054: spoon
+    100056: Syrup
+    100058: Syrup_MeshPart0
+    100060: Syrup_MeshPart1
+    100062: Syrup_MeshPart2
+    100064: //RootNode
+    400000: ___DUMMY_Strawber_000
+    400002: ___DUMMY_Strawber_001
+    400004: ___DUMMY_Strawberry
+    400006: Circle
+    400008: Circle_001
+    400010: Circle_002
+    400012: coffee_cup
+    400014: DOF
+    400016: floor
+    400018: fork
+    400020: HyperNURBS
+    400022: HyperNURBS_001
+    400024: HyperNURBS_002
+    400026: HyperNURBS_003
+    400028: HyperNURBS_004
+    400030: HyperNURBS_005
+    400032: Icosphere
+    400034: Plane
+    400036: Plane_001
+    400038: Plane_002
+    400040: Plane_003
+    400042: Plane_004
+    400044: Plane_005
+    400046: Plane_006
+    400048: Seeds
+    400050: Seeds_001
+    400052: Seeds_002
+    400054: spoon
+    400056: Syrup
+    400058: Syrup_MeshPart0
+    400060: Syrup_MeshPart1
+    400062: Syrup_MeshPart2
+    400064: //RootNode
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: coffee_cup
+    2300008: floor
+    2300010: fork
+    2300012: HyperNURBS
+    2300014: HyperNURBS_001
+    2300016: HyperNURBS_002
+    2300018: HyperNURBS_003
+    2300020: HyperNURBS_004
+    2300022: HyperNURBS_005
+    2300024: Icosphere
+    2300026: Plane
+    2300028: Plane_001
+    2300030: Plane_002
+    2300032: Plane_003
+    2300034: Plane_004
+    2300036: Plane_005
+    2300038: Plane_006
+    2300040: Seeds
+    2300042: Seeds_001
+    2300044: Seeds_002
+    2300046: spoon
+    2300048: Syrup_MeshPart0
+    2300050: Syrup_MeshPart1
+    2300052: Syrup_MeshPart2
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: coffee_cup
+    3300008: floor
+    3300010: fork
+    3300012: HyperNURBS
+    3300014: HyperNURBS_001
+    3300016: HyperNURBS_002
+    3300018: HyperNURBS_003
+    3300020: HyperNURBS_004
+    3300022: HyperNURBS_005
+    3300024: Icosphere
+    3300026: Plane
+    3300028: Plane_001
+    3300030: Plane_002
+    3300032: Plane_003
+    3300034: Plane_004
+    3300036: Plane_005
+    3300038: Plane_006
+    3300040: Seeds
+    3300042: Seeds_001
+    3300044: Seeds_002
+    3300046: spoon
+    3300048: Syrup_MeshPart0
+    3300050: Syrup_MeshPart1
+    3300052: Syrup_MeshPart2
+    4300000: Icosphere
+    4300002: Circle_002
+    4300004: Plane_006
+    4300006: Plane_005
+    4300008: Plane_002
+    4300010: Circle_001
+    4300012: Plane_004
+    4300014: spoon
+    4300016: fork
+    4300018: Plane_003
+    4300020: floor
+    4300022: Plane_001
+    4300024: Circle
+    4300026: Plane
+    4300028: Syrup_MeshPart0
+    4300030: Syrup_MeshPart1
+    4300032: Syrup_MeshPart2
+    4300034: coffee_cup
+    4300036: HyperNURBS_004
+    4300038: Seeds_002
+    4300040: HyperNURBS_005
+    4300042: HyperNURBS_002
+    4300044: HyperNURBS_003
+    4300046: Seeds_001
+    4300048: HyperNURBS_001
+    4300050: Seeds
+    4300052: HyperNURBS
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
